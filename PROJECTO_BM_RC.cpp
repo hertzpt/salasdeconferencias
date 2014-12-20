@@ -6,6 +6,9 @@
 #include "string.h" // necessário para usar a função strcpy( , )
 #include "locale.h"
 #include "stdio.h" // necessário ao manipular ficheiros 
+//sdfdsfsdf dsf dsfsdfsdfsdfs
+
+
 
 // Usar matrizes como variavel global
 // O programa deve indicar quando uma Sala já está cheia, sendo que se devem considerar sempre 6 lugares livres para convidados.
